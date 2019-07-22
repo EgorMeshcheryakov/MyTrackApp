@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_zoom_minus_pressed.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_zoom_minus_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_zoom_plus.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_zoom_plus.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_sgreenvga.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_sgreenvga.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_where_am_i_pressed.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_where_am_i_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_sgrayvga.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_sgrayvga.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_active.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_active.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_active_pressed.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_active_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_inactive_pressed.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_inactive_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_loading_2.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_loading_2.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_stricolorvga.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_stricolorvga.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_zoom_minus.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_zoom_minus.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_inactive.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_inactive.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_where_am_i.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_where_am_i.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_user_location_lbs.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_user_location_lbs.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_user_location_gps.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_user_location_gps.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_syellowvga.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_syellowvga.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_loading_3.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_loading_3.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_zoom_plus_pressed.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_zoom_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_tlight_no_level_loading_1.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_tlight_no_level_loading_1.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ymk_sredvga.png",
+        "source": "C:\\Android\\Projects\\yandexmapkit-sample\\build\\intermediates\\exploded-aar\\ru.yandex\\yandexmapkit\\2.5.4\\res\\drawable-ldpi\\ymk_sredvga.png"
+    }
+]

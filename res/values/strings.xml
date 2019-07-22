@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, MapKitTest!</string>
+    <string name="app_name">Tracker</string>
+    <string name="app_name_head">Tracker</string>
+    <string name="sample12">Путь/Позволяет рисовать путь</string>
+    <string name="sample12_head">Путь</string>
+</resources>
+

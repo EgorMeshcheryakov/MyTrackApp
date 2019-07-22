@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<ru.yandex.yandexmapkit.MapView
+        android:id="@+id/map"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="c2cf3503-456b-48b5-9dcc-580fab88f256"
+        android:layout_weight="1"
+    />
+    <LinearLayout android:id="@+id/buttonslay" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Старт" />
+    </LinearLayout>
+
+</LinearLayout>
+
